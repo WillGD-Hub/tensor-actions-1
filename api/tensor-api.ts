@@ -140,7 +140,7 @@ interface ListingsResponse {
   page: Page;
 }
 
-const TENSOR_API_KEY = "PASTE_YOUR_KEY_HERE";
+const TENSOR_API_KEY = "0b77397c-3600-4458-a579-72bd20bf810e";
 
 // 0b77397c-3600-4458-a579-72bd20bf810e
 // drip_metaverse_melodies
